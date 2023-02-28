@@ -1,0 +1,31 @@
+a:2:{s:4:"data";s:1011:"<li>
+    <a href="category/kids">Kids</a>
+            <u>
+            <li>
+    <a href="category/electr">Электронные</a>
+    </li><li>
+    <a href="category/mech">Механические</a>
+            <u>
+            <li>
+    <a href="category/casio">Casio</a>
+    </li>        </u>
+        </li>        </u>
+        </li><li>
+    <a href="category/woman">Woman</a>
+    </li><li>
+    <a href="category/man">Man</a>
+    </li><li>
+    <a href="category/<br />
+<b>Notice</b>:  Undefined index: alias in <b>E:\OpenServer\OSPanel\domains\MagazineOnPhp\public\menu\menu.php</b> on line <b>3</b><br />
+"><br />
+<b>Notice</b>:  Undefined index: title in <b>E:\OpenServer\OSPanel\domains\MagazineOnPhp\public\menu\menu.php</b> on line <b>3</b><br />
+</a>
+            <u>
+            <li>
+    <a href="category/royal-london">Royal London</a>
+    </li><li>
+    <a href="category/seiko">Seiko</a>
+    </li><li>
+    <a href="category/epos">Epos</a>
+    </li>        </u>
+        </li>";s:8:"end_time";i:1677597804;}
